@@ -3,7 +3,7 @@
 
 This doc goes through the different sections of the configuration file and explains them
 
-```
+```adsaoudaoodbhaoubd
 version = 0.1
 
 [default.build.paramaters]
